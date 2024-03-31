@@ -37,36 +37,6 @@ I am always up for a chat so if you would like to nerd out on any topic please g
 Click the headings to read more about the project & go to the repo. 
 
 
-## Software Development 
-
-<table  >
-    <tr><td width="500px" valign="top">    
-        
-[**Revit Automation & Quality Assurance Plugins**](https://github.com/davidptsmith/ifLab_Dev_Revit_Plugins)
-
-Technologies: 
-- C# .Net & WPF
-- AWS S3 
-- RDS MySQL database 
-
-
-</td>
- <td width="500px"  valign="top">
-     
-[**if/Lab Website Development**](https://github.com/davidptsmith/iflab-website)
-
-[Website link](https://happy-river-0ec5b0d00.1.azurestaticapps.net)
-
-Technologies: 
-- Javascript & some Typescript 
-- Next.js
-- Tailwind CSS
-- Azure Static Web App
-
-</td>
-</tr>
-</table>
-
 ## Data Science 
 
 <table>
