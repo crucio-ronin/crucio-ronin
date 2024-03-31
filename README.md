@@ -158,26 +158,6 @@ Technologies:
 
 
 
-## Art & Architecture
-
-<table>
-<tr>
-<td width="500px"  valign="top">
-
-[**Esplanade Public Art Proposal | Pose Detection to Rhino3D**](https://github.com/davidptsmith/OpenPoseToRhino3D)
-
-Technologies: 
-- Python 
-- Rhino3D + Grasshopper & C#
-- OpenCV & MediaPipe 
-
-     
-</td>
-</tr>
-</table>
-
-
-
 
 <!--
 **davidptsmith/davidptsmith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
