@@ -9,7 +9,7 @@ I have an architecturally trained background and experience in software developm
 
 I love what I do and I am always happy to chat.
 
-Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/david-pt-smith/)
+Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/suhasvivek/)
 
 
 
@@ -30,11 +30,10 @@ I am always up for a chat so if you would like to nerd out on any topic please g
 
 ## Education: 
 
-**Master of Data Science with Distinction** | University of Western Australia, 2022 
+**Master of Data Science with Distinction** | University of Western Australia, 2024 
 
-**Master of Architecture** | University of Western Australia, 2019
 
-**Bachelor of Design with a Double Major in Architecture & Integrated Design** | University of Western Australia, 2016
+**Bachelor of Engineering(Electronics and communication)** | Visvesvaraya Technological University, 2021
 
 
 <br/>
