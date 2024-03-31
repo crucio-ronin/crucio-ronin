@@ -35,7 +35,6 @@ I am always up for a chat so if you would like to nerd out on any topic please g
 
 **Bachelor of Engineering(Electronics and communication)** | Visvesvaraya Technological University, 2021
 
-
 <br/>
 
 ## Projects: 
