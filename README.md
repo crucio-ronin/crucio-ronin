@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://user-images.githubusercontent.com/76982323/164615876-77e82464-21d4-4dbf-b2ac-8cdb05402fc8.jpg" width=100%  />
+<img src="https://github.com/crucio-ronin/crucio-ronin/blob/main/DataScience.jpg" width=100%  />
 </p>
 
 ## Hi, My Name is Suhas! 👋
@@ -9,7 +9,6 @@ I'm a passionate individual with a keen interest in data exploration and analysi
 I love what I do and I am always happy to chat.
 
 Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/suhasvivek/)
-
 
 
 ## About Me: 
