@@ -69,7 +69,7 @@ Models:
 <tr>
 <td width="500px"  valign="top">
 
-[**EDA: Global Terrorism Database**](https://github.com/davidptsmith/DataScienceProjects/tree/main/01%20Global%20Terrorism%20Database)
+[**EDA: Global Terrorism Database**](Breast-Cancer-Survival-Prediction)
 
 Technologies: 
 - R
