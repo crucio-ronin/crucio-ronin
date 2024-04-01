@@ -43,7 +43,7 @@ Click the headings to read more about the project & go to the repo.
     <tr>
         <td width="500px" valign="top">    
 
-[**NLP: Custom Job Search Chat Bot**](https://github.com/davidptsmith/SpacyPatternMatchingChatbot)
+[**NLP: Custom Job Search Chat Bot**]()
 
 Technologies: 
 - Python 
@@ -54,7 +54,7 @@ Technologies:
         
  <td width="500px"  valign="top">
 
-[**NLP: Text Classification with Pytorch**](https://github.com/davidptsmith/DataScienceProjects/tree/main/08%20NLP%20Text%20Classification%20with%20PyTorch)
+[**NLP: Text Classification with Pytorch**]()
 
 Technologies: 
 - Python 
@@ -69,7 +69,7 @@ Models:
 <tr>
 <td width="500px"  valign="top">
 
-[**EDA: Global Terrorism Database**](Breast-Cancer-Survival-Prediction)
+[**EDA: Global Terrorism Database**]()
 
 Technologies: 
 - R
@@ -83,7 +83,7 @@ Models:
 </td>
 <td width="500px"  valign="top">
 
-[**CV: Image Classification & Exploration of Feed Forward Neural Networks**](https://github.com/davidptsmith/DataScienceProjects/tree/main/04%20Image%20Classification%20with%20Keras)
+[**CV: Image Classification & Exploration of Feed Forward Neural Networks**]()
 
 Technologies: 
 - Python 
