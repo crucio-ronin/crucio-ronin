@@ -69,16 +69,14 @@ Models:
 <tr>
 <td width="500px"  valign="top">
 
-[**EDA: Global Terrorism Database**](https://github.com/crucio-ronin/MLProjects/tree/ef3180bc304630547392a4fec9d3fcbc60f2212b/Breast-Cancer-Survival-Prediction)
+[**ML: Breast Cancer Survival Prediction**](https://github.com/crucio-ronin/MLProjects/tree/ef3180bc304630547392a4fec9d3fcbc60f2212b/Breast-Cancer-Survival-Prediction)
 
 Technologies: 
-- R
-- Tidyverse & Tidy Models 
-- Plotly 
+- Python
+- Streamlit
 
 Models: 
-- CLassification: KNN, Random Forest, Decision Tree, Logistic Regression, XG Boost, 
-- Clustering: K-Means, UMAP, PCA, Hierarchical 
+- CatBoost
      
 </td>
 <td width="500px"  valign="top">
