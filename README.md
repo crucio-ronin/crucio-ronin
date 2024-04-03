@@ -54,7 +54,7 @@ Technologies:
         
  <td width="500px"  valign="top">
 
-[**NLP: Text Classification with Pytorch**]()
+[**ML:Medical Cost Prediction**]()
 
 Technologies: 
 - Python 
