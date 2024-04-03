@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/crucio-ronin/crucio-ronin/blob/main/DataScience.jpg" width=100%  />
+<img src="https://github.com/crucio-ronin/crucio-ronin/blob/main/data-science.jpg" width=100%  />
 </p>
 
 ## Hi, My Name is Suhas! 👋
