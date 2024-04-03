@@ -54,7 +54,7 @@ Technologies:
         
  <td width="500px"  valign="top">
 
-[**ML:Medical Cost Prediction**]()
+[**ML: Medical Cost Prediction**]()
 
 Technologies: 
 - Python 
